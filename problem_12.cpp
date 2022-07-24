@@ -1,3 +1,6 @@
+
+/* Solution of hackerrank problrm on jumping the clouds */ 
+
 #include <bits/stdc++.h>
 
 using namespace std;
